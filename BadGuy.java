@@ -2,7 +2,7 @@
 public class BadGuy extends Character {
 	
 	String vehicle;
-	int currX = 3, currY = 3;
+	int currX = 4, currY = 4;
 	
 	public String getVehicle() {
 		return vehicle;
